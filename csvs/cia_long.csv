@@ -1,0 +1,682 @@
+Country,Indicator,Value
+Afghanistan,InfantMortality,42
+Albania,InfantMortality,10.8
+Algeria,InfantMortality,18.6
+American Samoa,InfantMortality,9.5
+Andorra,InfantMortality,3.3
+Angola,InfantMortality,46.1
+Anguilla,InfantMortality,2.9
+Antigua and Barbuda,InfantMortality,13.3
+Argentina,InfantMortality,7.4
+Armenia,InfantMortality,11.3
+Aruba,InfantMortality,11.2
+Australia,InfantMortality,3
+Austria,InfantMortality,3.2
+Azerbaijan,InfantMortality,10.7
+"Bahamas, The",InfantMortality,9.2
+Bahrain,InfantMortality,9.6
+Bangladesh,InfantMortality,22
+Barbados,InfantMortality,15.1
+Belarus,InfantMortality,2.1
+Belgium,InfantMortality,3
+Belize,InfantMortality,11.3
+Benin,InfantMortality,51.6
+Bermuda,InfantMortality,2.1
+Bhutan,InfantMortality,23
+Bolivia,InfantMortality,22.1
+Bosnia and Herzegovina,InfantMortality,3.8
+Botswana,InfantMortality,27.8
+Brazil,InfantMortality,12.7
+British Virgin Islands,InfantMortality,13
+Brunei,InfantMortality,9.8
+Bulgaria,InfantMortality,7.5
+Burkina Faso,InfantMortality,48
+Burma,InfantMortality,30.8
+Burundi,InfantMortality,35.3
+Cabo Verde,InfantMortality,21.9
+Cambodia,InfantMortality,27.2
+Cameroon,InfantMortality,44.6
+Canada,InfantMortality,3.8
+Cayman Islands,InfantMortality,7.1
+Central African Republic,InfantMortality,79.3
+Chad,InfantMortality,61.1
+Chile,InfantMortality,4.5
+China,InfantMortality,6
+Colombia,InfantMortality,11.6
+Comoros,InfantMortality,53.9
+"Congo, Democratic Republic of the",InfantMortality,55.8
+"Congo, Republic of the",InfantMortality,29.9
+Cook Islands,InfantMortality,14.8
+Costa Rica,InfantMortality,6.3
+Cote d'Ivoire,InfantMortality,52.3
+Croatia,InfantMortality,3.4
+Cuba,InfantMortality,5.2
+Curacao,InfantMortality,7.4
+Cyprus,InfantMortality,7.9
+Czechia,InfantMortality,2.5
+Denmark,InfantMortality,3.1
+Djibouti,InfantMortality,44.3
+Dominica,InfantMortality,10.5
+Dominican Republic,InfantMortality,20.8
+Ecuador,InfantMortality,11.2
+Egypt,InfantMortality,16.4
+El Salvador,InfantMortality,10
+Equatorial Guinea,InfantMortality,76.9
+Eritrea,InfantMortality,39
+Estonia,InfantMortality,2
+Eswatini,InfantMortality,38
+Ethiopia,InfantMortality,31.3
+Faroe Islands,InfantMortality,5.6
+Fiji,InfantMortality,9.4
+Finland,InfantMortality,1.9
+France,InfantMortality,3.1
+French Polynesia,InfantMortality,4.2
+Gabon,InfantMortality,26
+"Gambia, The",InfantMortality,35
+Gaza Strip,InfantMortality,14.2
+Georgia,InfantMortality,20.9
+Germany,InfantMortality,3
+Ghana,InfantMortality,30.5
+Gibraltar,InfantMortality,5.9
+Greece,InfantMortality,3.4
+Greenland,InfantMortality,8.3
+Grenada,InfantMortality,8.8
+Guam,InfantMortality,10.7
+Guatemala,InfantMortality,23.4
+Guernsey,InfantMortality,3.2
+Guinea,InfantMortality,45.8
+Guinea-Bissau,InfantMortality,45.1
+Guyana,InfantMortality,20.6
+Haiti,InfantMortality,35
+Honduras,InfantMortality,15.4
+Hong Kong,InfantMortality,2.4
+Hungary,InfantMortality,4.6
+Iceland,InfantMortality,1.6
+India,InfantMortality,30.5
+Indonesia,InfantMortality,18.5
+Iran,InfantMortality,9.7
+Iraq,InfantMortality,18.3
+Ireland,InfantMortality,3.2
+Isle of Man,InfantMortality,4
+Israel,InfantMortality,2.6
+Italy,InfantMortality,3
+Jamaica,InfantMortality,14.5
+Japan,InfantMortality,1.8
+Jersey,InfantMortality,3.7
+Jordan,InfantMortality,12.9
+Kazakhstan,InfantMortality,7.9
+Kenya,InfantMortality,26.8
+Kiribati,InfantMortality,30.8
+"Korea, North",InfantMortality,14.7
+"Korea, South",InfantMortality,2.2
+Kosovo,InfantMortality,21
+Kuwait,InfantMortality,7
+Kyrgyzstan,InfantMortality,24
+Laos,InfantMortality,34.2
+Latvia,InfantMortality,2.4
+Lebanon,InfantMortality,7.3
+Lesotho,InfantMortality,52.2
+Liberia,InfantMortality,55.2
+Libya,InfantMortality,10.4
+Liechtenstein,InfantMortality,3.8
+Lithuania,InfantMortality,2.5
+Luxembourg,InfantMortality,3.1
+Macau,InfantMortality,4.3
+Madagascar,InfantMortality,38.4
+Malawi,InfantMortality,28.9
+Malaysia,InfantMortality,6.3
+Maldives,InfantMortality,23.7
+Mali,InfantMortality,55.8
+Malta,InfantMortality,4.6
+Marshall Islands,InfantMortality,20.1
+Mauritania,InfantMortality,29.9
+Mauritius,InfantMortality,11.4
+Mexico,InfantMortality,12.3
+"Micronesia, Federated States of",InfantMortality,20.4
+Moldova,InfantMortality,13.5
+Monaco,InfantMortality,1.7
+Mongolia,InfantMortality,8.6
+Montenegro,InfantMortality,3.1
+Montserrat,InfantMortality,9.4
+Morocco,InfantMortality,17.8
+Mozambique,InfantMortality,56.7
+Namibia,InfantMortality,27.1
+Nauru,InfantMortality,7.5
+Nepal,InfantMortality,23.4
+Netherlands,InfantMortality,3.6
+New Caledonia,InfantMortality,4.8
+New Zealand,InfantMortality,3.3
+Nicaragua,InfantMortality,14.1
+Niger,InfantMortality,63
+Nigeria,InfantMortality,65.6
+North Macedonia,InfantMortality,6.8
+Northern Mariana Islands,InfantMortality,11.6
+Norway,InfantMortality,1.8
+Oman,InfantMortality,13.6
+Pakistan,InfantMortality,50.3
+Palau,InfantMortality,10.6
+Panama,InfantMortality,13.2
+Papua New Guinea,InfantMortality,31.3
+Paraguay,InfantMortality,21.4
+Peru,InfantMortality,10.6
+Philippines,InfantMortality,18.5
+Poland,InfantMortality,4.6
+Portugal,InfantMortality,2.4
+Puerto Rico,InfantMortality,5.7
+Qatar,InfantMortality,6.2
+Romania,InfantMortality,5.3
+Russia,InfantMortality,6.4
+Rwanda,InfantMortality,27.4
+Saint Barthelemy,InfantMortality,6.3
+"Saint Helena, Ascension, and Tristan da Cunha",InfantMortality,17.5
+Saint Kitts and Nevis,InfantMortality,7.9
+Saint Lucia,InfantMortality,11.3
+Saint Martin,InfantMortality,6.3
+Saint Pierre and Miquelon,InfantMortality,7.6
+Saint Vincent and the Grenadines,InfantMortality,12
+Samoa,InfantMortality,17.2
+San Marino,InfantMortality,6.1
+Sao Tome and Principe,InfantMortality,41.7
+Saudi Arabia,InfantMortality,11.4
+Senegal,InfantMortality,30.4
+Serbia,InfantMortality,4.4
+Seychelles,InfantMortality,10
+Sierra Leone,InfantMortality,70.1
+Singapore,InfantMortality,1.5
+Sint Maarten,InfantMortality,7.5
+Slovakia,InfantMortality,5
+Slovenia,InfantMortality,1.8
+Solomon Islands,InfantMortality,18.6
+Somalia,InfantMortality,81.5
+South Africa,InfantMortality,19.7
+South Sudan,InfantMortality,58.6
+Spain,InfantMortality,2.4
+Sri Lanka,InfantMortality,6.8
+Sudan,InfantMortality,39.7
+Suriname,InfantMortality,29.3
+Sweden,InfantMortality,2.2
+Switzerland,InfantMortality,3
+Syria,InfantMortality,14.7
+Taiwan,InfantMortality,3.8
+Tajikistan,InfantMortality,20.3
+Tanzania,InfantMortality,28.4
+Thailand,InfantMortality,6.2
+Timor-Leste,InfantMortality,41.9
+Togo,InfantMortality,34.5
+Tonga,InfantMortality,11.5
+Trinidad and Tobago,InfantMortality,14.7
+Tunisia,InfantMortality,10.6
+Turkey (Turkiye),InfantMortality,17.9
+Turkmenistan,InfantMortality,35
+Turks and Caicos Islands,InfantMortality,10.8
+Tuvalu,InfantMortality,27.2
+Uganda,InfantMortality,27.5
+Ukraine,InfantMortality,8.4
+United Arab Emirates,InfantMortality,4.9
+United Kingdom,InfantMortality,3.7
+United States,InfantMortality,5
+Uruguay,InfantMortality,6.9
+Uzbekistan,InfantMortality,17.6
+Vanuatu,InfantMortality,13.4
+Venezuela,InfantMortality,13.6
+Vietnam,InfantMortality,13.8
+Virgin Islands,InfantMortality,7.2
+Wallis and Futuna,InfantMortality,3.8
+West Bank,InfantMortality,14.2
+Yemen,InfantMortality,42.4
+Zambia,InfantMortality,30.1
+Zimbabwe,InfantMortality,32.8
+Afghanistan,LifeExpectancy,54.4
+Albania,LifeExpectancy,79.9
+Algeria,LifeExpectancy,77.9
+American Samoa,LifeExpectancy,75.8
+Andorra,LifeExpectancy,83.8
+Angola,LifeExpectancy,62.9
+Anguilla,LifeExpectancy,82.6
+Antigua and Barbuda,LifeExpectancy,78.3
+Argentina,LifeExpectancy,78.8
+Armenia,LifeExpectancy,76.7
+Aruba,LifeExpectancy,78.5
+Australia,LifeExpectancy,83.5
+Austria,LifeExpectancy,82.7
+Azerbaijan,LifeExpectancy,75.9
+"Bahamas, The",LifeExpectancy,76.7
+Bahrain,LifeExpectancy,80.4
+Bangladesh,LifeExpectancy,75.2
+Barbados,LifeExpectancy,79
+Belarus,LifeExpectancy,74.7
+Belgium,LifeExpectancy,82.3
+Belize,LifeExpectancy,74.3
+Benin,LifeExpectancy,63
+Bermuda,LifeExpectancy,82.5
+Bhutan,LifeExpectancy,73.7
+Bolivia,LifeExpectancy,72.5
+Bosnia and Herzegovina,LifeExpectancy,78.5
+Botswana,LifeExpectancy,66.4
+Brazil,LifeExpectancy,76.3
+British Virgin Islands,LifeExpectancy,80.1
+Brunei,LifeExpectancy,78.9
+Bulgaria,LifeExpectancy,76.1
+Burkina Faso,LifeExpectancy,64.2
+Burma,LifeExpectancy,70.3
+Burundi,LifeExpectancy,68.1
+Cabo Verde,LifeExpectancy,74.3
+Cambodia,LifeExpectancy,71.4
+Cameroon,LifeExpectancy,64.2
+Canada,LifeExpectancy,84.2
+Cayman Islands,LifeExpectancy,82.5
+Central African Republic,LifeExpectancy,56.4
+Chad,LifeExpectancy,60
+Chile,LifeExpectancy,80.3
+China,LifeExpectancy,78.7
+Colombia,LifeExpectancy,74.9
+Comoros,LifeExpectancy,67.8
+"Congo, Democratic Republic of the",LifeExpectancy,62.6
+"Congo, Republic of the",LifeExpectancy,72.9
+Cook Islands,LifeExpectancy,77.6
+Costa Rica,LifeExpectancy,80.3
+Cote d'Ivoire,LifeExpectancy,63.2
+Croatia,LifeExpectancy,77.7
+Cuba,LifeExpectancy,80.1
+Curacao,LifeExpectancy,79.9
+Cyprus,LifeExpectancy,80.2
+Czechia,LifeExpectancy,78.6
+Denmark,LifeExpectancy,82.1
+Djibouti,LifeExpectancy,65.9
+Dominica,LifeExpectancy,78.7
+Dominican Republic,LifeExpectancy,72.6
+Ecuador,LifeExpectancy,74.9
+Egypt,LifeExpectancy,75
+El Salvador,LifeExpectancy,75.9
+Equatorial Guinea,LifeExpectancy,63.9
+Eritrea,LifeExpectancy,67.5
+Estonia,LifeExpectancy,78.4
+Eswatini,LifeExpectancy,60.7
+Ethiopia,LifeExpectancy,67.7
+Faroe Islands,LifeExpectancy,81.7
+Fiji,LifeExpectancy,74.8
+Finland,LifeExpectancy,82.2
+France,LifeExpectancy,82.6
+French Polynesia,LifeExpectancy,78.9
+Gabon,LifeExpectancy,70.4
+"Gambia, The",LifeExpectancy,68.4
+Gaza Strip,LifeExpectancy,75.5
+Georgia,LifeExpectancy,72.8
+Germany,LifeExpectancy,81.9
+Ghana,LifeExpectancy,70.1
+Gibraltar,LifeExpectancy,80.9
+Greece,LifeExpectancy,81.9
+Greenland,LifeExpectancy,74.5
+Grenada,LifeExpectancy,76.3
+Guam,LifeExpectancy,78
+Guatemala,LifeExpectancy,73.5
+Guernsey,LifeExpectancy,83.6
+Guinea,LifeExpectancy,64.6
+Guinea-Bissau,LifeExpectancy,64.5
+Guyana,LifeExpectancy,72.4
+Haiti,LifeExpectancy,65.6
+Honduras,LifeExpectancy,73.1
+Hong Kong,LifeExpectancy,84
+Hungary,LifeExpectancy,76
+Iceland,LifeExpectancy,84
+India,LifeExpectancy,68.2
+Indonesia,LifeExpectancy,73.6
+Iran,LifeExpectancy,75.6
+Iraq,LifeExpectancy,73.7
+Ireland,LifeExpectancy,82
+Isle of Man,LifeExpectancy,82.5
+Israel,LifeExpectancy,83.1
+Italy,LifeExpectancy,83
+Jamaica,LifeExpectancy,76.3
+Japan,LifeExpectancy,85.2
+Jersey,LifeExpectancy,83
+Jordan,LifeExpectancy,76.5
+Kazakhstan,LifeExpectancy,73.3
+Kenya,LifeExpectancy,70.4
+Kiribati,LifeExpectancy,68.5
+"Korea, North",LifeExpectancy,73.5
+"Korea, South",LifeExpectancy,83.4
+Kosovo,LifeExpectancy,73.1
+Kuwait,LifeExpectancy,79.6
+Kyrgyzstan,LifeExpectancy,72.9
+Laos,LifeExpectancy,69
+Latvia,LifeExpectancy,76.4
+Lebanon,LifeExpectancy,79.2
+Lesotho,LifeExpectancy,60.2
+Liberia,LifeExpectancy,61.6
+Libya,LifeExpectancy,77.7
+Liechtenstein,LifeExpectancy,83
+Lithuania,LifeExpectancy,76.1
+Luxembourg,LifeExpectancy,83.4
+Macau,LifeExpectancy,85.3
+Madagascar,LifeExpectancy,68.8
+Malawi,LifeExpectancy,73
+Malaysia,LifeExpectancy,76.6
+Maldives,LifeExpectancy,77.4
+Mali,LifeExpectancy,63.2
+Malta,LifeExpectancy,83.6
+Marshall Islands,LifeExpectancy,75.2
+Mauritania,LifeExpectancy,65.9
+Mauritius,LifeExpectancy,75.4
+Mexico,LifeExpectancy,74.6
+"Micronesia, Federated States of",LifeExpectancy,75
+Moldova,LifeExpectancy,70.1
+Monaco,LifeExpectancy,89.8
+Mongolia,LifeExpectancy,71.9
+Montenegro,LifeExpectancy,78.2
+Montserrat,LifeExpectancy,76.1
+Morocco,LifeExpectancy,74.2
+Mozambique,LifeExpectancy,58.3
+Namibia,LifeExpectancy,65.9
+Nauru,LifeExpectancy,68.6
+Nepal,LifeExpectancy,73
+Netherlands,LifeExpectancy,81.9
+New Caledonia,LifeExpectancy,79.3
+New Zealand,LifeExpectancy,82.9
+Nicaragua,LifeExpectancy,74.7
+Niger,LifeExpectancy,60.9
+Nigeria,LifeExpectancy,62.2
+North Macedonia,LifeExpectancy,77.3
+Northern Mariana Islands,LifeExpectancy,77.1
+Norway,LifeExpectancy,82.9
+Oman,LifeExpectancy,77.4
+Pakistan,LifeExpectancy,70.3
+Palau,LifeExpectancy,75.2
+Panama,LifeExpectancy,79.2
+Papua New Guinea,LifeExpectancy,70.1
+Paraguay,LifeExpectancy,78.8
+Peru,LifeExpectancy,68.9
+Philippines,LifeExpectancy,70.8
+Poland,LifeExpectancy,76.7
+Portugal,LifeExpectancy,81.9
+Puerto Rico,LifeExpectancy,82.1
+Qatar,LifeExpectancy,80.3
+Romania,LifeExpectancy,76.9
+Russia,LifeExpectancy,72.3
+Rwanda,LifeExpectancy,66.6
+Saint Barthelemy,LifeExpectancy,81
+"Saint Helena, Ascension, and Tristan da Cunha",LifeExpectancy,80.9
+Saint Kitts and Nevis,LifeExpectancy,77.6
+Saint Lucia,LifeExpectancy,79.4
+Saint Martin,LifeExpectancy,81
+Saint Pierre and Miquelon,LifeExpectancy,81.8
+Saint Vincent and the Grenadines,LifeExpectancy,77.2
+Samoa,LifeExpectancy,75.7
+San Marino,LifeExpectancy,84.2
+Sao Tome and Principe,LifeExpectancy,67.7
+Saudi Arabia,LifeExpectancy,77.2
+Senegal,LifeExpectancy,70.6
+Serbia,LifeExpectancy,75.3
+Seychelles,LifeExpectancy,76.6
+Sierra Leone,LifeExpectancy,59.4
+Singapore,LifeExpectancy,86.7
+Sint Maarten,LifeExpectancy,79.7
+Slovakia,LifeExpectancy,77.2
+Slovenia,LifeExpectancy,82.2
+Solomon Islands,LifeExpectancy,77.2
+Somalia,LifeExpectancy,56.5
+South Africa,LifeExpectancy,71.9
+South Sudan,LifeExpectancy,60.3
+Spain,LifeExpectancy,83
+Sri Lanka,LifeExpectancy,76.8
+Sudan,LifeExpectancy,67.8
+Suriname,LifeExpectancy,72.7
+Sweden,LifeExpectancy,82.9
+Switzerland,LifeExpectancy,83.9
+Syria,LifeExpectancy,74.8
+Taiwan,LifeExpectancy,81.6
+Tajikistan,LifeExpectancy,71.9
+Tanzania,LifeExpectancy,70.8
+Thailand,LifeExpectancy,78.2
+Timor-Leste,LifeExpectancy,70.5
+Togo,LifeExpectancy,72.1
+Tonga,LifeExpectancy,78
+Trinidad and Tobago,LifeExpectancy,76.5
+Tunisia,LifeExpectancy,77.3
+Turkey (Turkiye),LifeExpectancy,76.7
+Turkmenistan,LifeExpectancy,72.4
+Turks and Caicos Islands,LifeExpectancy,81.3
+Tuvalu,LifeExpectancy,69
+Uganda,LifeExpectancy,69.7
+Ukraine,LifeExpectancy,70.5
+United Arab Emirates,LifeExpectancy,79.9
+United Kingdom,LifeExpectancy,82.2
+United States,LifeExpectancy,80.9
+Uruguay,LifeExpectancy,78.9
+Uzbekistan,LifeExpectancy,76.2
+Vanuatu,LifeExpectancy,75.7
+Venezuela,LifeExpectancy,74.5
+Vietnam,LifeExpectancy,76.1
+Virgin Islands,LifeExpectancy,80.7
+Wallis and Futuna,LifeExpectancy,81.1
+West Bank,LifeExpectancy,76.5
+Yemen,LifeExpectancy,68.2
+Zambia,LifeExpectancy,66.9
+Zimbabwe,LifeExpectancy,67.2
+Afghanistan,MaternalMortality,521
+Albania,MaternalMortality,7
+Algeria,MaternalMortality,62
+American Samoa,MaternalMortality,
+Andorra,MaternalMortality,11
+Angola,MaternalMortality,183
+Anguilla,MaternalMortality,
+Antigua and Barbuda,MaternalMortality,35
+Argentina,MaternalMortality,33
+Armenia,MaternalMortality,19
+Aruba,MaternalMortality,
+Australia,MaternalMortality,2
+Austria,MaternalMortality,6
+Azerbaijan,MaternalMortality,18
+"Bahamas, The",MaternalMortality,76
+Bahrain,MaternalMortality,17
+Bangladesh,MaternalMortality,115
+Barbados,MaternalMortality,35
+Belarus,MaternalMortality,1
+Belgium,MaternalMortality,4
+Belize,MaternalMortality,67
+Benin,MaternalMortality,518
+Bermuda,MaternalMortality,
+Bhutan,MaternalMortality,47
+Bolivia,MaternalMortality,146
+Bosnia and Herzegovina,MaternalMortality,6
+Botswana,MaternalMortality,155
+Brazil,MaternalMortality,67
+British Virgin Islands,MaternalMortality,
+Brunei,MaternalMortality,36
+Bulgaria,MaternalMortality,6
+Burkina Faso,MaternalMortality,242
+Burma,MaternalMortality,185
+Burundi,MaternalMortality,392
+Cabo Verde,MaternalMortality,40
+Cambodia,MaternalMortality,137
+Cameroon,MaternalMortality,258
+Canada,MaternalMortality,12
+Cayman Islands,MaternalMortality,
+Central African Republic,MaternalMortality,692
+Chad,MaternalMortality,748
+Chile,MaternalMortality,10
+China,MaternalMortality,16
+Colombia,MaternalMortality,59
+Comoros,MaternalMortality,179
+"Congo, Democratic Republic of the",MaternalMortality,427
+"Congo, Republic of the",MaternalMortality,241
+Cook Islands,MaternalMortality,0
+Costa Rica,MaternalMortality,24
+Cote d'Ivoire,MaternalMortality,359
+Croatia,MaternalMortality,3
+Cuba,MaternalMortality,35
+Curacao,MaternalMortality,
+Cyprus,MaternalMortality,14
+Czechia,MaternalMortality,3
+Denmark,MaternalMortality,4
+Djibouti,MaternalMortality,162
+Dominica,MaternalMortality,36
+Dominican Republic,MaternalMortality,124
+Ecuador,MaternalMortality,55
+Egypt,MaternalMortality,17
+El Salvador,MaternalMortality,39
+Equatorial Guinea,MaternalMortality,174
+Eritrea,MaternalMortality,291
+Estonia,MaternalMortality,5
+Eswatini,MaternalMortality,118
+Ethiopia,MaternalMortality,195
+Faroe Islands,MaternalMortality,
+Fiji,MaternalMortality,30
+Finland,MaternalMortality,8
+France,MaternalMortality,7
+French Polynesia,MaternalMortality,
+Gabon,MaternalMortality,233
+"Gambia, The",MaternalMortality,354
+Gaza Strip,MaternalMortality,16
+Georgia,MaternalMortality,20
+Germany,MaternalMortality,4
+Ghana,MaternalMortality,234
+Gibraltar,MaternalMortality,
+Greece,MaternalMortality,5
+Greenland,MaternalMortality,
+Grenada,MaternalMortality,48
+Guam,MaternalMortality,
+Guatemala,MaternalMortality,94
+Guernsey,MaternalMortality,
+Guinea,MaternalMortality,494
+Guinea-Bissau,MaternalMortality,505
+Guyana,MaternalMortality,75
+Haiti,MaternalMortality,328
+Honduras,MaternalMortality,47
+Hong Kong,MaternalMortality,
+Hungary,MaternalMortality,12
+Iceland,MaternalMortality,3
+India,MaternalMortality,80
+Indonesia,MaternalMortality,140
+Iran,MaternalMortality,16
+Iraq,MaternalMortality,66
+Ireland,MaternalMortality,4
+Isle of Man,MaternalMortality,
+Israel,MaternalMortality,2
+Italy,MaternalMortality,6
+Jamaica,MaternalMortality,130
+Japan,MaternalMortality,3
+Jersey,MaternalMortality,
+Jordan,MaternalMortality,31
+Kazakhstan,MaternalMortality,10
+Kenya,MaternalMortality,379
+Kiribati,MaternalMortality,80
+"Korea, North",MaternalMortality,67
+"Korea, South",MaternalMortality,4
+Kosovo,MaternalMortality,
+Kuwait,MaternalMortality,8
+Kyrgyzstan,MaternalMortality,42
+Laos,MaternalMortality,112
+Latvia,MaternalMortality,19
+Lebanon,MaternalMortality,15
+Lesotho,MaternalMortality,478
+Liberia,MaternalMortality,628
+Libya,MaternalMortality,59
+Liechtenstein,MaternalMortality,
+Lithuania,MaternalMortality,8
+Luxembourg,MaternalMortality,12
+Macau,MaternalMortality,
+Madagascar,MaternalMortality,445
+Malawi,MaternalMortality,225
+Malaysia,MaternalMortality,26
+Maldives,MaternalMortality,32
+Mali,MaternalMortality,367
+Malta,MaternalMortality,8
+Marshall Islands,MaternalMortality,155
+Mauritania,MaternalMortality,381
+Mauritius,MaternalMortality,66
+Mexico,MaternalMortality,42
+"Micronesia, Federated States of",MaternalMortality,129
+Moldova,MaternalMortality,19
+Monaco,MaternalMortality,5
+Mongolia,MaternalMortality,41
+Montenegro,MaternalMortality,6
+Montserrat,MaternalMortality,
+Morocco,MaternalMortality,70
+Mozambique,MaternalMortality,82
+Namibia,MaternalMortality,139
+Nauru,MaternalMortality,273
+Nepal,MaternalMortality,142
+Netherlands,MaternalMortality,4
+New Caledonia,MaternalMortality,
+New Zealand,MaternalMortality,7
+Nicaragua,MaternalMortality,60
+Niger,MaternalMortality,350
+Nigeria,MaternalMortality,993
+North Macedonia,MaternalMortality,3
+Northern Mariana Islands,MaternalMortality,
+Norway,MaternalMortality,1
+Oman,MaternalMortality,13
+Pakistan,MaternalMortality,155
+Palau,MaternalMortality,89
+Panama,MaternalMortality,37
+Papua New Guinea,MaternalMortality,189
+Paraguay,MaternalMortality,58
+Peru,MaternalMortality,51
+Philippines,MaternalMortality,84
+Poland,MaternalMortality,2
+Portugal,MaternalMortality,15
+Puerto Rico,MaternalMortality,11
+Qatar,MaternalMortality,4
+Romania,MaternalMortality,12
+Russia,MaternalMortality,9
+Rwanda,MaternalMortality,229
+Saint Barthelemy,MaternalMortality,
+"Saint Helena, Ascension, and Tristan da Cunha",MaternalMortality,
+Saint Kitts and Nevis,MaternalMortality,74
+Saint Lucia,MaternalMortality,44
+Saint Martin,MaternalMortality,
+Saint Pierre and Miquelon,MaternalMortality,
+Saint Vincent and the Grenadines,MaternalMortality,56
+Samoa,MaternalMortality,101
+San Marino,MaternalMortality,8
+Sao Tome and Principe,MaternalMortality,75
+Saudi Arabia,MaternalMortality,7
+Senegal,MaternalMortality,237
+Serbia,MaternalMortality,11
+Seychelles,MaternalMortality,42
+Sierra Leone,MaternalMortality,354
+Singapore,MaternalMortality,6
+Sint Maarten,MaternalMortality,
+Slovakia,MaternalMortality,4
+Slovenia,MaternalMortality,3
+Solomon Islands,MaternalMortality,123
+Somalia,MaternalMortality,563
+South Africa,MaternalMortality,118
+South Sudan,MaternalMortality,692
+Spain,MaternalMortality,3
+Sri Lanka,MaternalMortality,18
+Sudan,MaternalMortality,256
+Suriname,MaternalMortality,84
+Sweden,MaternalMortality,4
+Switzerland,MaternalMortality,5
+Syria,MaternalMortality,20
+Taiwan,MaternalMortality,
+Tajikistan,MaternalMortality,14
+Tanzania,MaternalMortality,276
+Thailand,MaternalMortality,34
+Timor-Leste,MaternalMortality,192
+Togo,MaternalMortality,349
+Tonga,MaternalMortality,67
+Trinidad and Tobago,MaternalMortality,54
+Tunisia,MaternalMortality,36
+Turkey (Turkiye),MaternalMortality,15
+Turkmenistan,MaternalMortality,5
+Turks and Caicos Islands,MaternalMortality,
+Tuvalu,MaternalMortality,170
+Uganda,MaternalMortality,170
+Ukraine,MaternalMortality,15
+United Arab Emirates,MaternalMortality,3
+United Kingdom,MaternalMortality,8
+United States,MaternalMortality,17
+Uruguay,MaternalMortality,15
+Uzbekistan,MaternalMortality,26
+Vanuatu,MaternalMortality,100
+Venezuela,MaternalMortality,227
+Vietnam,MaternalMortality,48
+Virgin Islands,MaternalMortality,
+Wallis and Futuna,MaternalMortality,
+West Bank,MaternalMortality,16
+Yemen,MaternalMortality,118
+Zambia,MaternalMortality,85
+Zimbabwe,MaternalMortality,358
