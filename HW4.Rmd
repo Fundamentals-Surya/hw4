@@ -1,8 +1,6 @@
 ---
 title: "R Notebook"
-output:
-  html_document:
-    df_print: paged
+output: html_notebook
 ---
 
 ```{r}
@@ -19,21 +17,21 @@ if (!dir.exists(folder)) dir.create(folder) # Creates new directory if it does n
 merged_temp <- merge(infant, life, by=c("Country", "Region"), all=TRUE) # Merge the Infant table and Life table by using Country and Region as key, while including all rows from both tables
 final_data <- merge(merged_temp, maternal, by=c("Country", "Region"), all=TRUE) # Merge the table above and Maternal table by using Country and Region as key, while including all rows from both tables
 rio::export(final_data, "csvs/cia_merge.csv") # Export the merged table as a csv file
-
 ```
 
 ```{r}
-print(paste("Total Rows:", nrow(final_data))) # Outputs the number of rows of merged table
-print(paste("Total Columns:", ncol(final_data))) # Outputs the number of columns of merged table
-
-names(final_data) # Outputs the column names of the table
-
-# head(final_data) # Displays the first rows of the table
-
-colSums(is.na(final_data)) # Outputs out number of missing values per column
-
-file.exists("csvs/cia_merge.csv") # Checks if merged csv file was exported and saved correctly
-
+{
+  print(paste("Total Rows:", nrow(final_data))) # Outputs the number of rows of merged table
+  print(paste("Total Columns:", ncol(final_data))) # Outputs the number of columns of merged table
+  
+  print(names(final_data)) # Outputs the column names of the table
+  
+  # head(final_data) # Displays the first rows of the table
+  
+  print(colSums(is.na(final_data))) # Outputs out number of missing values per column
+  
+  file.exists("csvs/cia_merge.csv") # Checks if merged csv file was exported and saved correctly
+}
 ```
 
 ```{r}
@@ -43,18 +41,18 @@ cia_aggregated <- aggregate(cbind(DeathsPer1000, Years, DeathsPer100_000) ~ Regi
                             FUN = mean, 
                             na.rm = TRUE) # Aggregates the table by region and averages the three variables per region and creates new table from that
 rio::export(cia_aggregated, "csvs/cia_aggregated.csv") # Export the aggregated table as a csv file
-
 ```
 
 ```{r}
-# head(cia_aggregated) # Displays the first rows of the table
-
-str(cia_aggregated) # Verify the data, data types, structure, and col names of the table
- 
-length(unique(cia_data$Region)) == nrow(cia_aggregated) # Ensures that the number of regions from the original table match the aggregated table's number of regions
-
-file.exists("csvs/cia_aggregated.csv") # Checks if aggretgated csv file was exported and saved correctly
-
+{
+  # head(cia_aggregated) # Displays the first rows of the table
+  
+  str(cia_aggregated) # Verify the data, data types, structure, and col names of the table
+   
+  print(length(unique(cia_data$Region)) == nrow(cia_aggregated)) # Ensures that the number of regions from the original table match the aggregated table's number of regions
+  
+  file.exists("csvs/cia_aggregated.csv") # Checks if aggretgated csv file was exported and saved correctly
+}
 ```
 
 ```{r}
@@ -71,20 +69,20 @@ cia_long <- reshape(cia_wide,
 cia_long$Region <- NULL # Removes the region column
 
 rio::export(cia_long, "csvs/cia_long.csv") # Export the long table as a csv file
-
 ```
 
 ```{r}
-print(paste("Wide rows:", nrow(cia_wide))) # Outputs the number of rows in wide table
-print(paste("Long rows:", nrow(cia_long))) # Outputs the number of rows in long table
-
-#head(cia_long) # Displays the first rows of the table
-
-names(cia_long) # Prints column names of long tablex
-
-unique(cia_long$Indicator) # Outputs the unique values of the indicator column
-
-file.exists("csvs/cia_long.csv") # Checks if long csv file was exported and saved correctly
-
+{
+  print(paste("Wide rows:", nrow(cia_wide))) # Outputs the number of rows in wide table
+  print(paste("Long rows:", nrow(cia_long))) # Outputs the number of rows in long table
+  
+  #head(cia_long) # Displays the first rows of the table
+  
+  print(names(cia_long)) # Prints column names of long tablex
+  
+  print(unique(cia_long$Indicator)) # Outputs the unique values of the indicator column
+  
+  file.exists("csvs/cia_long.csv") # Checks if long csv file was exported and saved correctly
+}
 ```
 
